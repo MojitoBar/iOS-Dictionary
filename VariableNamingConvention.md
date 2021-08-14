@@ -32,7 +32,7 @@ public struct Person {
 ```
 
 ### Static and Class Properties
-- 선언 형식의 인스턴스를 반환하는 정적 및 클래스 속성에는 형식 이름이 접미사로 붙지 않습니다.
+- 선언 형식의 인스턴스를 반환하는 정적 및 클래스 속성에는 형식 이름이 접미사로 붙지 않는 것을 선호한다.
 ```swift
 public class UIColor {
   public class var red: UIColor {                // GOOD.
