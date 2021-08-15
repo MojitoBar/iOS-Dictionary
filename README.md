@@ -1,6 +1,6 @@
 # iOS-Dictionary
 ### 1. [Variable Naming Convention](https://github.com/MojitoBar/iOS-Dictionary/blob/main/VariableNamingConvention.md)
-### 2. [Console Log]()
+### 2. [Console Log](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ConsoleLog.md)
 ### 3. [String Interpolation]()
 
 ---
