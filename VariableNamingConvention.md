@@ -19,7 +19,6 @@ public struct Person {
 }
 ```
 ```swift
-// AVOID Example.
 public struct Person {
   public let name: String
   public let phoneNumber: String
