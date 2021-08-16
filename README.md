@@ -1,7 +1,8 @@
 # iOS-Dictionary
 ### ‣ [Variable Naming Convention](https://github.com/MojitoBar/iOS-Dictionary/blob/main/VariableNamingConvention.md)
 ### ‣ [Console Log](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ConsoleLog.md)
-### ‣ [String Interpolation]()
+### ‣ [String Interpolation](https://github.com/MojitoBar/iOS-Dictionary/blob/main/StringInterpolation.md)
+### ‣ [Data Type]()
 
 ---
 ## Reference by<br>
