@@ -2,7 +2,7 @@
 ### ‣ [Variable Naming Convention](https://github.com/MojitoBar/iOS-Dictionary/blob/main/VariableNamingConvention.md)
 ### ‣ [Console Log](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ConsoleLog.md)
 ### ‣ [String Interpolation](https://github.com/MojitoBar/iOS-Dictionary/blob/main/StringInterpolation.md)
-### ‣ [Data Type]()
+### ‣ [Basic Data Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/BasicDataType.md)
 
 ---
 ## Reference by<br>
