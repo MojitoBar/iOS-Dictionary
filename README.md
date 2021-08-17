@@ -3,7 +3,8 @@
 ### ‣ [Console Log](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ConsoleLog.md)
 ### ‣ [String Interpolation](https://github.com/MojitoBar/iOS-Dictionary/blob/main/StringInterpolation.md)
 ### ‣ [Basic Data Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/BasicDataType.md)
-### ‣ [Any, AnyObject, nil]()
+### ‣ [Any, AnyObject, nil](https://github.com/MojitoBar/iOS-Dictionary/blob/main/AnyAnyObjectNil.md)
+### ‣ [Type Casting]()
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
