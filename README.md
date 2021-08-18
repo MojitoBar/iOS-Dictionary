@@ -4,7 +4,7 @@
 ### ‣ [String Interpolation](https://github.com/MojitoBar/iOS-Dictionary/blob/main/StringInterpolation.md)
 ### ‣ [Basic Data Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/BasicDataType.md)
 ### ‣ [Any, AnyObject, nil](https://github.com/MojitoBar/iOS-Dictionary/blob/main/AnyAnyObjectNil.md)
-### ‣ [Type Casting]()
+### ‣ [Type Casting](https://github.com/MojitoBar/iOS-Dictionary/blob/main/TypeCasting.md)
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
