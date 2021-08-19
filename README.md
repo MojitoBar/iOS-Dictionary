@@ -5,6 +5,7 @@
 ### ‣ [Basic Data Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/BasicDataType.md)
 ### ‣ [Any, AnyObject, nil](https://github.com/MojitoBar/iOS-Dictionary/blob/main/AnyAnyObjectNil.md)
 ### ‣ [Type Casting](https://github.com/MojitoBar/iOS-Dictionary/blob/main/TypeCasting.md)
+### ‣ [Collection Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/CollectionType.md)
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
