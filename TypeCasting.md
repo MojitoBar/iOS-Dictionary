@@ -62,8 +62,22 @@ for item in library {
 
 print("Media library contains \(movieCount) movies and \(songCount) songs")
 ```
-- 위에서 생성했던 libaray를 돌며 `is` 연산자를 사용하여 `Count`를 측정하는 예제이다.
+- 위에서 생성했던 library를 돌며 `is` 연산자를 사용하여 `Count`를 측정하는 예제이다.
 - `is` 로 연산된 결과는 [`Bool`](https://github.com/MojitoBar/iOS-Dictionary/blob/main/BasicDataType.md#basic-datatype-1) 타입으로 리턴된다.
 
 ### Downcasting
-- 
+- `as?` 나 `as!`를 이용하여 인스턴스를 동일한 계층구조 내의 다른 클래스로 타입 캐스팅 할 수 있다.
+
+```swift
+for item in library {
+    if let movie = item as? Movie {
+        print("Movie: \(movie.name), dir. \(movie.director)")
+    } else if let song = item as? Song {
+        print("Song: \(song.name), by \(song.artist)")
+    }
+}
+```
+- 위에서 생성했던 `library`를 돌며 `as?` 연산자를 이용하여 `item`을 구분하는 예제이다.
+- `as?`는 옵셔널 타입의 값을 반환하기 때문에 `if let` 구문으로 값을 꺼내온 것을 볼 수 있다.
+- `as!`의 경우는 강제로 `unwrap`하는 것이기 때문에 `Downcasting`이 항상 성공할 경우에만 사용 가능하다.<br>
+그렇지 않으면 런타임 에러가 발생하므로 막연한 사용은 굉장히 위험하다. (if let을 권장.)
