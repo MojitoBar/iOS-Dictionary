@@ -6,6 +6,7 @@
 ### ‣ [Any, AnyObject, nil](https://github.com/MojitoBar/iOS-Dictionary/blob/main/AnyAnyObjectNil.md)
 ### ‣ [Type Casting](https://github.com/MojitoBar/iOS-Dictionary/blob/main/TypeCasting.md)
 ### ‣ [Collection Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/CollectionType.md)
+### ‣ [Function](https://github.com/MojitoBar/iOS-Dictionary/blob/main/Function.md)
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
