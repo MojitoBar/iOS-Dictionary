@@ -7,7 +7,7 @@
 ### ‣ [Type Casting](https://github.com/MojitoBar/iOS-Dictionary/blob/main/TypeCasting.md)
 ### ‣ [Collection Type](https://github.com/MojitoBar/iOS-Dictionary/blob/main/CollectionType.md)
 ### ‣ [Functions](https://github.com/MojitoBar/iOS-Dictionary/blob/main/Functions.md)
-### ‣ [Control Flow](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ConrtolFlow.md)
+### ‣ [Control Flow](https://github.com/MojitoBar/iOS-Dictionary/blob/main/ControlFlow.md)
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
