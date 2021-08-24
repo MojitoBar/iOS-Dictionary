@@ -97,3 +97,19 @@ func guardJobWithOptinalChaining(owner: Person?){
 ```
 - 옵셔널 체이닝을 사용한 함수가 훨씬 가독성이 뛰어난 것을 볼 수 있다.
 - 엮인 여러 변수 중 하나라도 `nil`값에 해당 한다면 `else`코드 블럭을 실행 한다.
+
+### nil 병합 연산자
+- 옵셔널 변수를 다룰 때 `nil`일 경우 기본 값을 설정해 줄 수가 있다.
+```swift
+jito?.home?.guard?.job = "경비원"
+
+var guardJob: String
+guardJob = jito?.home?.guard?.job ?? "슈퍼맨"
+print(guardJob)             // Output: 경비원
+
+jito?.home?.guard?.job = nil
+
+guardJob = jito?.home?.guard?.job ?? "슈퍼맨"
+print(guardJob)             // Output: 슈퍼맨
+```
+- 예제와 같이 `job`이 할당이 된 경우에는 할당된 값이 나오지만, `nil`인 경우 지정해준 기본값이 나오게 된다.
