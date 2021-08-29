@@ -30,7 +30,7 @@ struct Sample {
 클래스에 대하여...
 ### Definition
 ```swift
-Class 이름: 상속 {
+class 이름: 상속 {
     // 코드
 }
 ```
