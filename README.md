@@ -12,6 +12,7 @@
 ### ‣ [Closure](https://github.com/MojitoBar/iOS-Dictionary/blob/main/Closure.md)
 ### ‣ [Struct & Class](https://github.com/MojitoBar/iOS-Dictionary/blob/main/StructAndClass.md)
 ### ‣ [Enum](https://github.com/MojitoBar/iOS-Dictionary/blob/main/Enum.md)
+### ‣ [Property](https://github.com/MojitoBar/iOS-Dictionary/blob/main/Property.md)
 ---
 ## Reference by<br>
 [Swift Style Guide](https://google.github.io/swift/)
