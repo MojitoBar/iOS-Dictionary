@@ -13,7 +13,7 @@
 ### Closure as first-class objects
 ```swift
 let closure = { () -> () in
-    print("CLosure")
+    print("Closure")
 }
 ```
 - 클로저는 [1급 객체](https://ko.wikipedia.org/wiki/%EC%9D%BC%EA%B8%89_%EA%B0%9D%EC%B2%B4)로서 매개변수로 넘기기, 수정하기, 변수에 대입하기와 같은 연산을 지원한다.
